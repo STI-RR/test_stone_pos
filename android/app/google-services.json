@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229321383071",
+    "project_id": "easyfood-app-flutter",
+    "storage_bucket": "easyfood-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229321383071:android:b7d42a008cce28a42d96aa",
+        "android_client_info": {
+          "package_name": "br.com.stirr.easyfood.app.easyfood_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwaUsmhtYmgWTLBeCCoHHlKs8A9iATLao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
